@@ -7,3 +7,4 @@ RebaseDemo 2 Commeit
 
 
 Rebase Stansh commits resource 1
+new Comment to ammend - resoue 2
